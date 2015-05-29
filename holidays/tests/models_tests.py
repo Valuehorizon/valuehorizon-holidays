@@ -3,3 +3,6 @@
 # Import Django libraries
 from django.test import TestCase
 from django.core.validators import ValidationError
+
+class HolidayModelTests(TestCase):
+    print "Done"
