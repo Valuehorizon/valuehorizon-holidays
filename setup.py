@@ -57,7 +57,7 @@ setup(
     keywords='django, app, reusable, holidays, valuehorizon',
     author='Quincy Alexander',
     author_email='qalexander@valuehorizon.com',
-    url="https://https://github.com/Valuehorizon/valuehorizon-holidays",
+    url="https://github.com/Valuehorizon/valuehorizon-holidays",
     packages=find_packages(),
     include_package_data=True,
     install_requires=install_requires,
